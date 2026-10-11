@@ -1,0 +1,6 @@
+{
+  "name": "情景分析法与多维未来演化实验室",
+  "description": "专业级情景分析法(Scenario Planning)研究与决策仿真平台，集成历史溯源、PESTEL驱动扫描、2x2极端矩阵演播、CIB交叉影响平衡自洽检验、六大标杆案例、Python网络引擎、AI智能诊断及白皮书导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
